@@ -18,6 +18,6 @@ Using the social distancing data, we plot on average the stay-at-home rate ( dev
 
 ## Example 2
 
-Using the Facteus data, we analyze what categories see the biggest decrease/increase in consumer expenditure since COV19. 
+Using the Facteus data, we analyze what categories see the biggest decrease/increase in consumer expenditure since COV19. The plot below displays the share of expenditure on wholesale clubs on average across dates. 
 
-![TOP Category](mcc_analysis.PNG)
+![WholesaleClubs](mcc_analysis.png)
